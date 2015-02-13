@@ -43,6 +43,7 @@
 		044212691A8DA98800B6E34E /* HXAttributedStringTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HXAttributedStringTests.m; sourceTree = "<group>"; };
 		044212741A8DA9DF00B6E34E /* HXAttributedString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HXAttributedString.h; sourceTree = "<group>"; };
 		044212751A8DA9DF00B6E34E /* HXAttributedString.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HXAttributedString.m; sourceTree = "<group>"; };
+		044212771A8DC52900B6E34E /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Main.strings"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -262,6 +263,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				044212581A8DA98800B6E34E /* Base */,
+				044212771A8DC52900B6E34E /* zh-Hans */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -428,6 +430,7 @@
 				0442126F1A8DA98800B6E34E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		044212701A8DA98800B6E34E /* Build configuration list for PBXNativeTarget "HXAttributedStringTests" */ = {
 			isa = XCConfigurationList;
@@ -436,6 +439,7 @@
 				044212721A8DA98800B6E34E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
