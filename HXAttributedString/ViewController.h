@@ -10,6 +10,11 @@
 
 @interface ViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UITextView *myTextView;
+- (IBAction)button1Press:(id)sender;
+- (IBAction)button2Press:(id)sender;
+- (IBAction)button3Press:(id)sender;
+- (IBAction)button4Press:(id)sender;
 
 @end
 
