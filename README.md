@@ -3,4 +3,4 @@
 
 效果图如下：
 
-![](https://github.com/TheLittleBoy/HXAttributedString/raw/master/ScreenShot.png)
+![](https://github.com/TheLittleBoy/HXAttributedString/raw/master/ScreenShot.PNG)
